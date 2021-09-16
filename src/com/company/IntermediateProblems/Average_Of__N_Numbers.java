@@ -1,3 +1,5 @@
+// Java program to find the average of N numbers
+
 package com.company.IntermediateProblems;
 
 import java.util.Scanner;
